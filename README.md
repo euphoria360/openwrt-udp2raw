@@ -1,9 +1,8 @@
-udp2raw-tunnel for OpenWRT/LEDE
+udp2raw-tunnel for OpenWRT
 
- 适配 OpenWRT/LEDE 的 [udp2raw-tunnel][1] 编译文件
+[udp2raw-tunnel][1] compilation file for OpenWRT
  
- 更多内容，请看[wiki](https://github.com/sensec/openwrt-udp2raw/wiki)
-
+For more information, please see the [wiki][2]
 
   [1]: https://github.com/wangyu-/udp2raw-tunnel
-  [2]: https://github.com/sensec/luci-app-udp2raw
+  [2]: https://github.com/euphoria360/luci-app-udp2raw
